@@ -1,1 +1,2 @@
-# C105-class-Template-
+# Standard_deviation
+solution for c105
